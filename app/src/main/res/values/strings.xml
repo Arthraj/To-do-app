@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Next</string>
+    <string name="button">Button</string>
+    <string name="enter_next_to_do">Enter next to do...</string>
+</resources>
